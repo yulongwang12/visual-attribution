@@ -51,5 +51,3 @@ TBD
 
 ## Reference
 TBD
-see notebook [saliency_comparison.ipynb](./notebooks/saliency_comparison.ipynb). If everything works, you will get the above image.W
-see notebook [saliency_comparison.ipynb](./notebooks/saliency_comparison.ipynb). If everything works, you will get the above image.

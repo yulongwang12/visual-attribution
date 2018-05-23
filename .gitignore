@@ -1,0 +1,9 @@
+*.pyc
+*.npy
+*.npz
+*.pkl
+*.ckpt
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+

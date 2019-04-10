@@ -49,5 +49,13 @@ see notebook [saliency_comparison.ipynb](./notebooks/saliency_comparison.ipynb).
 ### Weakly Supervised Object Localization
 TBD
 
-## Reference
-TBD
+## Citation
+If you use our codebase or models in your research, please cite this project.
+```bibtex
+@misc{visualattr2018,
+  author =       {Yulong Wang},
+  title =        {Pytorch-Visual-Attribution},
+  howpublished = {\url{https://github.com/yulongwang12/visual-attribution}},
+  year =         {2018}
+}
+```

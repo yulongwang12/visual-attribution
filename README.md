@@ -15,9 +15,9 @@ Including:
 - [x] GradCAM
 - [x] PatternNet, PatternLRP
 - [x] Real Time Saliency
-- [ ] Occlusion
-- [ ] Feedback
-- [ ] DeepLIFT
+- [x] Occlusion
+- [x] Feedback
+- [x] DeepLIFT
 - [ ] Meaningful Perturbation
 
 ## Setup

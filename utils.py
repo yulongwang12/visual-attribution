@@ -31,5 +31,5 @@ def upsample(inp, size):
     backend = type2backend[inp.type()]
     f = getattr(backend, 'SpatialUpSamplingBilinear_updateOutput')
     upsample_inp = inp.new()
-    f(backend.library_state, inp, upsample_inp, size[0], size[1])
+    f(backend.library_state, inp, upsample_inp, size[0], size[1],False)
     return upsample_inp
